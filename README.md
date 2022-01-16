@@ -6,9 +6,7 @@
     <a href="#-licença">📃 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-observações">📌 Observações</a>
 </p>
-<div align="center">
-    <img width="500"  alt="Página principal do portfólio" src=/>
-</div>
+
 
 
 ## 🖥 Projeto
@@ -24,10 +22,7 @@ As tecnologias usadas nesse projeto foram:
 Link para o design do projeto: [Portfólio] (https://www.figma.com/file/KCms1ViZhMU4obDSmwghBh/Portifolio?node-id=0%3A1)
 Para executar o projeto, apenas é preciso clonar ele em seu dispositivo:
 
-- Clone o repositório
-    ```bash
-    $ git clone git@github.com:Yta-ux/portfolio.git
-    ```
+
 
 ##  📃 Licença
 Esse projeto possui licença MIT. Para mais detalhes consulte o arquivo [LICENSE]
