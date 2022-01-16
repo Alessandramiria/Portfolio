@@ -24,9 +24,6 @@ Para executar o projeto, apenas é preciso clonar ele em seu dispositivo:
 
 
 
-##  📃 Licença
-Esse projeto possui licença MIT. Para mais detalhes consulte o arquivo [LICENSE]
-
 ## 📌 Observações
-- Projeto totalmente responsivo;
+- Projeto não totalmente responsivo;
 
