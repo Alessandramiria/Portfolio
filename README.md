@@ -7,7 +7,7 @@
     <a href="#-observações">📌 Observações</a>
 </p>
 <div align="center">
-    <img width="500"  alt="Página principal do portfólio" src=".github/home.png"/>
+    <img width="500"  alt="Página principal do portfólio" src=/>
 </div>
 
 
@@ -21,8 +21,7 @@ As tecnologias usadas nesse projeto foram:
 - [Sass](https://sass-lang.com/)
 
 ## 🎨 Layout
-Link para o design do projeto: [Portfólio](https://www.figma.com/file/OFPmaR4BYJd7QeChEOzHgL/Desafios---Codelândia-(Copy)?node-id=13190%3A2)
-## 🖇 Executar o Projeto
+Link para o design do projeto: [Portfólio] (https://www.figma.com/file/KCms1ViZhMU4obDSmwghBh/Portifolio?node-id=0%3A1)
 Para executar o projeto, apenas é preciso clonar ele em seu dispositivo:
 
 - Clone o repositório
@@ -31,8 +30,8 @@ Para executar o projeto, apenas é preciso clonar ele em seu dispositivo:
     ```
 
 ##  📃 Licença
-Esse projeto possui licença MIT. Para mais detalhes consulte o arquivo [LICENSE](LICENSE.md)
+Esse projeto possui licença MIT. Para mais detalhes consulte o arquivo [LICENSE]
 
 ## 📌 Observações
 - Projeto totalmente responsivo;
-- Desafio promovido pelo [iuricode](https://github.com/iuricode);
+
